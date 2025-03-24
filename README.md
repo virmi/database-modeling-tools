@@ -1,13 +1,13 @@
-# Database Modeling Tools
-A list of database modeling tools
+# Awesome Data Modeling Tools [![awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+
+## Tools for Relational Databases
 
 - [DBSchema](https://dbschema.com/)
 - [DeZign for Databases](https://www.datanamic.com/dezign/)
 - [Enterprise Architect](https://sparxsystems.com/products/ea/)
-- [ER Studio](https://www.idera.com/products/er-studio/data-architect/)
+- [ER Studio](https://www.erstudio.com/)
 - [ERWin](https://www.erwin.com/)
-- [Hackolade](https://hackolade.com/)
-- [Moon Modeler](https://www.datensen.com)
+- [Luna Modeler](https://www.datensen.com)
 - [MySQL Workbench](https://www.mysql.com/products/workbench/)
 - [Navicat Data Modeler](https://www.navicat.com/en/products/navicat-data-modeler)
 - [Oracle SQL Data Modeler](https://www.oracle.com/database/sqldeveloper/technologies/sql-data-modeler/)
